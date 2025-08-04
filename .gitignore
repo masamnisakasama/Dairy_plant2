@@ -1,0 +1,23 @@
+# macOS固有
+.DS_Store
+
+# Xcode関連
+DerivedData/
+*.xcworkspace
+xcuserdata/
+*.xcuserstate
+*.xcodeproj/project.xcworkspace/xcuserdata
+
+# Swift Package Manager
+.build/
+
+# バイナリファイルやビルド生成物
+*.app
+*.dSYM
+*.ipa
+*.xcarchive
+
+# その他
+*.log
+*.swp
+
